@@ -1,0 +1,5 @@
+#include "port/libdefs.h"
+
+__OPENCODE_BEGIN_NAMESPACE
+
+__OPENCODE_END_NAMESPACE
